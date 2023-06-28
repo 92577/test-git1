@@ -1,1 +1,4 @@
-public class Dog{}
+public class Dog
+{
+	public int id;
+}
